@@ -1,0 +1,9 @@
+{
+  "name": "cukicahamas-25",
+  "description": "A simple PHP project",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4"
+  }
+}
